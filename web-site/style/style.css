@@ -1,0 +1,18 @@
+
+
+body {
+  background-color: pink;
+  color: darkviolet;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;}
+section  
+  {text-indent: 30px;}
+#myHeader {
+  
+  color: blue;
+  padding: 40px;
+  text-align: center;
+  text-decoration: underline;		
+} 
